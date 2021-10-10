@@ -15,9 +15,9 @@ Each directory's contents/files are explained below
 
 1. `README.md:`  Markdown containing guide to the repository of the assignment;
 2. `scripts.ipynb:` python notebook which contains the code implemented to accomplish the homework; Each challenge completed for Hackerrank has two cells in the notebook:
-	* The first cell has the challenge title.
-	* The second cell has the code used for submission.
-2. The two cells for a challenge will always be together. Challenges are stacked in order they were attempted. 
+* The first cell has the challenge title.
+* The second cell has the code used for submission.
+The two cells for a challenge will always be together. Challenges are stacked in order they were attempted. 
 
 ### stamps
 
