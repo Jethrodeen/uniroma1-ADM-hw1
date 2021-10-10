@@ -5,13 +5,13 @@ Homework no. 1 for Algorithmic Methods in Data Mining. Course for Masters in Dat
 1. `Name:` Muhammad Mahir Latif `Email:` mahirlatif@live.com `Matricola:` 1998072
 
 ## Directories
-1. `Root:` This is the root directory that contains all directories subsequently detailed. It also contains the files 'scripts.ipynb', and this guide 'README.md'.
+1. `root:` This is the root directory that contains all directories subsequently detailed. It also contains the files 'scripts.ipynb', and this guide 'README.md'.
 2. `stamps:` This directory contains the file 'submissions.pdf'.
 
 ## Files
 Each directory's contents/files are explained below
 
-### Root
+### root
 
 1. `README.md:`  Markdown containing guide to the repository of the assignment;
 2. `scripts.ipynb:` python notebook which contains the code implemented to accomplish the homework; Each challenge completed for Hackerrank has two cells in the notebook:
@@ -21,4 +21,4 @@ Each directory's contents/files are explained below
 
 ### stamps
 
-1. `submission.pdf:` pdf of exported webpage from 'Hackerrank' of submissions. Submissions are sorted by challenge to avoid repeats.
+1. `submissions.pdf:` pdf of exported webpage from 'Hackerrank' of submissions. Submissions are sorted by challenge to avoid repeats.
