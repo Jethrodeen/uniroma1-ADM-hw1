@@ -2,7 +2,7 @@
 Homework no. 1 for Algorithmic Methods in Data Mining. Course for Masters in Data Science (Semester 1) at Sapienza University of Rome.
 
 ## Group Members
-1. `Name:` Muhammad Mahir Latif. `Email:` mahirlatif@live.com `Matricola:` 1998072
+1. `Name:` Muhammad Mahir Latif `Email:` mahirlatif@live.com `Matricola:` 1998072
 
 ## Directories
 1. `Root:` This is the root directory that contains all directories subsequently detailed. It also contains the files 'scripts.ipynb', and this guide 'README.md'.
